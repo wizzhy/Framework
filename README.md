@@ -1,42 +1,60 @@
-#  Web Absensi Sekolah
+🌐 Web Absensi Sekolah
+📌 Fitur Utama
+👨‍💼 Admin
 
----
+Mengelola akun Guru dan Siswa
 
-## 📌 Fitur Utama
+Menentukan jadwal kelas
 
-### 👨‍💼 Admin
-- Kelola akun Guru & Siswa
-- Kelola jadwal kelas
-- Lihat dan cetak rekap absensi
+Melihat, mencetak, dan mengekspor rekap absensi
 
-### 🧑‍🏫 Guru
-- Lihat jadwal mengajar
-- Input absensi siswa (Hadir, Sakit, Izin, Alpa)
+🧑‍🏫 Guru
 
-### 👨‍🎓 Siswa
-- Lihat riwayat absensi
-- Ajukan izin/sakit secara online
+Melihat jadwal mengajar
 
----
+Mengisi absensi siswa (Hadir, Sakit, Izin, Alpa)
 
-## 🧑‍💻 Panduan Pengguna
+Melihat riwayat absensi per kelas
 
-### 👨‍💼 Admin
-- **Dashboard Admin** ➝ Kelola Guru, Siswa, dan Jadwal
-- **Rekap Absensi** ➝ Lihat dan ekspor laporan
-- **Logout** ➝ Keluar dari sistem
+👨‍🎓 Siswa
 
-### 🧑‍🏫 Guru
-- **Lihat Jadwal** ➝ Lihat jadwal mengajar
-- **Input Absensi**:
-  - Pilih kelas & tanggal
-  - Tandai status kehadiran
-  - Simpan absensi
-- **Logout** ➝ Keluar dari sistem
+Mengecek riwayat absensi pribadi
 
-### 👨‍🎓 Siswa
-- **Lihat Absensi** ➝ Lihat riwayat absensi
-- **Ajukan Izin/Sakit**:
-  - Isi alasan
-  - Upload surat atau dokumen
-- **Logout** ➝ Keluar dari sistem
+Mengajukan izin atau sakit secara online dengan bukti pendukung
+
+🧑‍💻 Panduan Pengguna
+👨‍💼 Admin
+
+Dashboard → mengatur data guru, siswa, dan jadwal
+
+Rekap Absensi → melihat laporan, mencetak, atau mengekspor ke file
+
+Logout → keluar dari sistem
+
+🧑‍🏫 Guru
+
+Lihat Jadwal → menampilkan jadwal mengajar sesuai kelas
+
+Input Absensi →
+
+Pilih kelas & tanggal
+
+Tandai status kehadiran siswa
+
+Simpan absensi
+
+Riwayat Absensi → melihat data absensi yang sudah diinput
+
+Logout → keluar dari sistem
+
+👨‍🎓 Siswa
+
+Riwayat Absensi → melihat daftar absensi pribadi
+
+Pengajuan Izin/Sakit →
+
+Isi alasan izin/sakit
+
+Upload surat atau dokumen pendukung
+
+Logout → keluar dari sistem
